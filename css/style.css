@@ -252,7 +252,7 @@ h6 {
 }
 
 .block-title {
-  font-family: "Archangelsk";
+  font-family: "Montserrat";
   line-height: 1.5;
   text-transform: uppercase;
   margin-bottom: 3.125rem;
@@ -338,7 +338,7 @@ h6 {
   }
 }
 .top-header__item {
-  font-family: Archangelsk;
+  font-family: Montserrat;
   position: relative;
 }
 @media (min-width: 120em) {
@@ -457,7 +457,7 @@ h6 {
   }
 }
 .body-header__title {
-  font-family: Archangelsk;
+  font-family: Montserrat;
   line-height: 1.5;
   margin-bottom: 1.875rem;
   z-index: 4;
@@ -491,7 +491,7 @@ h6 {
   }
 }
 .body-header__subtitle {
-  font-family: Archangelsk;
+  font-family: Montserrat;
   line-height: 1.2857142857;
   color: rgba(0, 0, 0, 0.8);
   margin-bottom: 5rem;
